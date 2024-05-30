@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Nodejs,Angular ,SpringBoot, React**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/NarimenAzzouz/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/NarimenAzzouz/narimen-azzouz/issues)**
 
 
 
@@ -180,4 +180,3 @@
 
 
 </div>
-
